@@ -1,9 +1,13 @@
-### Olá, Meu nome é Matheus B. Pecinalli 👋😁
+### <h1>Olá, Meu nome é Matheus B. Pecinalli 👋😁</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280" align="right">
 
 <p >
- Tenho 28 anos, atualmente resido em Araruama e estou cursando Análise e Desenvolvimento de Sistemas.
+ Tenho 28 anos, atualmente resido em Araruama e estou cursando Análise e Desenvolvimento de Sistemas. <br/>
  Formo-me em setembro de 2024. Estou à procura de oportunidades para ingressar no mercado.
 </p>
+
+
 
 <p>
   💌 Sinta-se a vontade para entrar em contato: ⤵️
@@ -13,10 +17,10 @@
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pecinalli-7222bb246/)
 <a href="https://wa.me/+5522997331603" title="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-## 
+
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> Tecnologias que jé usei:
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Star-Struck" width="20" height="20" /> Tecnologias que jé usei:
 </h2>
 
 <div align="left">

@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280" align="right">
 
 <p >
- Tenho 28 anos, atualmente resido em Araruama e estou cursando Análise e Desenvolvimento de Sistemas. <br/>
+ Tenho 28 anos, atualmente resido em Araruama-Rj e estou cursando Análise e Desenvolvimento de Sistemas. <br/>
  Formo-me em setembro de 2024. Estou à procura de oportunidades para ingressar no mercado.
 </p>
 

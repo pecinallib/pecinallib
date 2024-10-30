@@ -4,7 +4,7 @@
 
 <p >
  Tenho 29 anos, atualmente resido em Araruama-Rj. <br/>
- 📖Formado em ADS📖.
+ 📖Formado em ADS📖.<br/>
  Focado em projetos pessoais no momento👏
 </p>
 

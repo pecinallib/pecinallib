@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="280" align="right">
 
 <p >
- Tenho 29 anos, atualmente resido em Araruama-Rj. <br/>
+ Tenho 30 anos, atualmente resido em Araruama-Rj. <br/>
  📖Formado em ADS📖.<br/>
  Focado em projetos pessoais no momento👏
 </p>
